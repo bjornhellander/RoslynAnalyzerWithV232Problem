@@ -7,11 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoslynAnalyzerWithV232Probl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoslynAnalyzerWithV232Problem.CodeFixes", "RoslynAnalyzerWithV232Problem\RoslynAnalyzerWithV232Problem.CodeFixes\RoslynAnalyzerWithV232Problem.CodeFixes.csproj", "{D149C83C-BA19-4431-8637-54ED7A323158}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoslynAnalyzerWithV232Problem.Package", "RoslynAnalyzerWithV232Problem\RoslynAnalyzerWithV232Problem.Package\RoslynAnalyzerWithV232Problem.Package.csproj", "{F7E7D753-E2CB-41DF-B987-B58CF8B85BF1}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoslynAnalyzerWithV232Problem.Test", "RoslynAnalyzerWithV232Problem\RoslynAnalyzerWithV232Problem.Test\RoslynAnalyzerWithV232Problem.Test.csproj", "{D7ED0D7A-BA52-4062-8A58-D56C3548BE10}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoslynAnalyzerWithV232Problem.Vsix", "RoslynAnalyzerWithV232Problem\RoslynAnalyzerWithV232Problem.Vsix\RoslynAnalyzerWithV232Problem.Vsix.csproj", "{A1992C04-B93E-4AA2-B838-8096655C592B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,18 +23,10 @@ Global
 		{D149C83C-BA19-4431-8637-54ED7A323158}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D149C83C-BA19-4431-8637-54ED7A323158}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D149C83C-BA19-4431-8637-54ED7A323158}.Release|Any CPU.Build.0 = Release|Any CPU
-		{F7E7D753-E2CB-41DF-B987-B58CF8B85BF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{F7E7D753-E2CB-41DF-B987-B58CF8B85BF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{F7E7D753-E2CB-41DF-B987-B58CF8B85BF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{F7E7D753-E2CB-41DF-B987-B58CF8B85BF1}.Release|Any CPU.Build.0 = Release|Any CPU
 		{D7ED0D7A-BA52-4062-8A58-D56C3548BE10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{D7ED0D7A-BA52-4062-8A58-D56C3548BE10}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D7ED0D7A-BA52-4062-8A58-D56C3548BE10}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D7ED0D7A-BA52-4062-8A58-D56C3548BE10}.Release|Any CPU.Build.0 = Release|Any CPU
-		{A1992C04-B93E-4AA2-B838-8096655C592B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{A1992C04-B93E-4AA2-B838-8096655C592B}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{A1992C04-B93E-4AA2-B838-8096655C592B}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{A1992C04-B93E-4AA2-B838-8096655C592B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

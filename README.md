@@ -1,0 +1,1 @@
+# RoslynAnalyzerWithV232Problem
